@@ -1,0 +1,7 @@
+1.自定义进度条
+
+2.自定义尺子轮播
+
+https://github.com/xiaoxige/GitTest/blob/master/2018_1_6Demo/app/src/main/java/cn/xiaoxige/a2018_1_6demo/PointerProgress.java
+
+https://github.com/xiaoxige/GitTest/blob/master/2018_1_6Demo/app/src/main/java/cn/xiaoxige/a2018_1_6demo/PulleyRuler.java
