@@ -2,9 +2,13 @@
 1————
 升级android4.0后报错 apt,收集到的相关博客地址
 http://blog.csdn.net/sxk874890728/article/details/78367726
+解决方法
+A.注释掉最上方apt  B.再depes{}中注释掉 C.直接编译
 2————
 再次升级android中AS工具报错
 (Error:All flavors must now belong to a named flavor dimension. Learn more at https://d.android.com/r/tools/flavorDimensions-missing-error-message.html)
 http://blog.csdn.net/syif88/article/details/75009663
+解决方法
+flavorDimensions "versionCode"
 
 
